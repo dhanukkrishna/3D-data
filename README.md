@@ -1,5 +1,6 @@
 # 3D-data
 Workspace for the 3D data
-<Br>
-Author- Krishna Dhanuk<Br>
+<br>
+Author- Krishna Dhanuk
+<br>
 Working for the 3D data classification and segmentation using different architecture.
